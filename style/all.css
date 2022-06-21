@@ -7,3 +7,9 @@ body {
 h1 {
     color: aliceblue;
 }
+
+a {
+    text-decoration: none;
+    background-color: chartreuse;
+    color: orange;
+}
